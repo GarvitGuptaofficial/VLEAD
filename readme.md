@@ -62,7 +62,8 @@ Each data point consists of:
   
   ![MAAE](maae.png)
   
-  Where \( \theta_i \) is the ground truth and \( \hat{\theta}_i \) is the predicted angle. This ensures circular continuity (e.g., 359° and 1° are only 2° apart).
+  Where `theta` is the ground truth and `theta_hat` is the predicted angle. This ensures circular continuity (e.g., 359° and 1° are only 2° apart).
+
 
 ---
 
